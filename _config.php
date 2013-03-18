@@ -20,8 +20,8 @@
 $i = 0;
 $cfgServers = array();
 
-$cfgServers[$i]['address'] = '';
-$cfgServers[$i]['name'] = '';
+$cfgServers[$i]['address'] = 'mdb09.ayisnap.com:4730';
+$cfgServers[$i]['name'] = 'mdb09';
 ++ $i;
 
 ?>
